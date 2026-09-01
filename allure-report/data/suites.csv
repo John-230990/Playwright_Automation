@@ -1,0 +1,3 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","5791","@smoke@regressionlogin","chromium","2026-08-25","passed","2026-08-25","registraion and login","TCcombine.spec.ts","",""
+"","5873","@smoke registration","chromium","2026-08-25","passed","2026-08-25","registraion and login","TCcombine.spec.ts","",""
